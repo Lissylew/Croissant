@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: rgb(176, 227, 238);
+}
+.img-croissant {
+    max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+footer a{
+    margin: 0 10px;
+  color: rgb(114, 5, 67);
+}
+
